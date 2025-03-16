@@ -24,13 +24,13 @@ This project demonstrates **basic C programming concepts**, including:
 First, ensure you have a **C compiler** (e.g., GCC).  
 Run this command in your terminal:  
 ```sh
-gcc main.c -o car_inventory
+gcc main.c -o main
 ```
 
 ### **2️⃣ Run the Program**
 After compilation, run the program:  
 ```sh
-./car_inventory
+./main
 ```
 
 ### **3️⃣ Program Menu**

@@ -1,6 +1,5 @@
 # **📌 Car Inventory Management System**
-#### *A simple C program to manage a car inventory with search and filter features. While this program design for car inventory*
-#### *but its also can be used for other inventory as well such as supermarket, mall, store and other items as well.*
+#### *A simple C program to manage a car inventory with search and filter features. While this program design for car inventory but its also can be used for other inventory as well such as supermarket, mall, store and other items as well.*
 
 ---
 

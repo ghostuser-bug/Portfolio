@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  form h2 {
+    margin-bottom: 20px;
+  }
+  form .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .about-hero {
+    background-image: url('https://via.placeholder.com/1920x600');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.our-values .card-body {
+    padding: 2rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.team img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+
+
+
+
